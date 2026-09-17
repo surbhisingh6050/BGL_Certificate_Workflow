@@ -5,7 +5,7 @@ A RAG-based support assistant for BGL's clients and internal sales team. This is
 ## What it does
 
 - Answers client questions (installation, pricing, warranty, onboarding)
-  grounded in BGL's actual knowledge base — no hallucinated policy details
+  - Grounded in BGL's actual knowledge base — no hallucinated policy details
 - Full chat interface with conversation memory (follow-up questions work)
 - Shows **sources** for every answer, so you can verify what it's citing
 - Has a built-in **relevance threshold** — if a question falls outside the
@@ -47,7 +47,7 @@ streamlit run app.py
 
 Same as the earlier demo: push to a public GitHub repo, deploy free on
 Streamlit Cloud (share.streamlit.io), add your API key as a secret. You'll
-get a shareable URL your team (or you, in an interview) can actually use.
+get a shareable URL for your team. 
 
 
 - "I thought through rollout sequencing — internal tool first to de-risk,
