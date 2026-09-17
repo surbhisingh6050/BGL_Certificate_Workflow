@@ -1,0 +1,43 @@
+ABOUT BGL
+
+BGL is an industrial technology company based in Delhi NCR, India, specializing in energy efficiency and clean-air solutions for commercial and industrial clients. Our client base includes manufacturing groups, hospitality chains, and commercial real estate operators, including names like JBM Group, Hilton, and Hyatt.
+
+PRODUCT LINE: ENERGY OPTIMIZATION SYSTEM (ES-25)
+
+Our flagship product, BGL ES-25, helps industrial and commercial facilities reduce energy consumption by 15-30% through smart monitoring, predictive maintenance recommendations, and automated load balancing. The system integrates with existing HVAC and electrical infrastructure without requiring a full hardware overhaul.
+
+INSTALLATION PROCESS
+
+A typical ES-25 installation takes 2-4 weeks depending on facility size. The process includes: (1) an initial energy audit conducted on-site by a BGL engineer, (2) sensor and controller installation, (3) a two-week calibration period where the system learns the facility's usage patterns, and (4) a handover session with staff training on the monitoring dashboard.
+
+WARRANTY AND SUPPORT
+
+All BGL systems come with a 3-year warranty covering hardware defects and firmware updates. Support is available via a dedicated account manager, with a target response time of 4 business hours for critical issues (system down, safety-related) and 24 hours for standard requests (dashboard questions, minor calibration tweaks).
+
+PRICING MODEL
+
+BGL uses an outcome-linked pricing model: clients pay a lower upfront installation fee plus a percentage of verified energy savings over the first 24 months. This aligns BGL's incentives with actual client outcomes rather than just equipment sales. Typical upfront fees range from 40-60% of a comparable fixed-price competitor installation, with the remainder recovered through the savings-share arrangement.
+
+CLIENT ONBOARDING
+
+New clients go through a structured onboarding process: a kickoff call to align on goals and timeline, a site assessment by a BGL engineer, a customized rollout plan specific to the facility, and a 90-day review meeting to measure actual savings against the initial baseline audit.
+
+COMPATIBILITY WITH EXISTING INFRASTRUCTURE
+
+The ES-25 system is designed to retrofit onto existing HVAC and electrical infrastructure in most cases. Systems installed after 2005 are generally compatible without modification. Facilities with pre-2005 HVAC systems may require an adapter kit, which BGL provides at an additional cost determined during the site audit.
+
+WHAT HAPPENS IF SAVINGS TARGETS AREN'T MET
+
+Because pricing is partially outcome-linked, BGL has a direct incentive to hit savings targets. If actual savings fall short of the agreed baseline at the 90-day review, the account team revisits calibration settings at no extra cost to the client, and the savings-share percentage is adjusted downward for that period.
+
+MULTI-SITE AND PORTFOLIO CLIENTS
+
+For clients with multiple facilities (e.g., hotel chains, manufacturing groups with several plants), BGL offers a portfolio rollout program: a pilot installation at one site, a 90-day performance review, and then a phased rollout across remaining sites with pricing terms locked in from the pilot.
+
+CANCELLATION AND CONTRACT TERMS
+
+Clients may cancel the outcome-linked pricing agreement after the initial 24-month period with 60 days' written notice. Early cancellation within the first 24 months requires payment of the remaining upfront-fee balance, prorated based on installation date.
+
+CONTACT FOR ESCALATIONS
+
+Standard support requests go through the assigned account manager. For urgent escalations outside business hours, clients can reach BGL's support line directly (see your onboarding packet for the current number) — this assistant does not have real-time visibility into open support tickets.
