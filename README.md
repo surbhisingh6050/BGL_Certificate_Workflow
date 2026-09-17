@@ -1,9 +1,6 @@
 # BGL Client Support Assistant
 
-A RAG-based support assistant for BGL's clients and internal sales team,
-built on Mistral's API. This is a real, deployable tool — not just an
-interview demo — that could genuinely reduce the manual back-and-forth
-your account managers handle for routine client questions.
+A RAG-based support assistant for BGL's clients and internal sales team. This is a real, deployable tool that could genuinely reduce the manual back-and-forth your account managers handle for routine client questions.
 
 ## What it does
 
@@ -52,13 +49,7 @@ Same as the earlier demo: push to a public GitHub repo, deploy free on
 Streamlit Cloud (share.streamlit.io), add your API key as a secret. You'll
 get a shareable URL your team (or you, in an interview) can actually use.
 
-## Talking points for the Mistral interview
 
-- "I built a working RAG assistant for my own company's real client-support
-  workflow, not just a generic demo."
-- "I added a relevance threshold so the assistant admits when it doesn't
-  know something rather than hallucinating — this is exactly the kind of
-  reliability tradeoff enterprise customers care about most."
 - "I thought through rollout sequencing — internal tool first to de-risk,
   then potentially client-facing — which mirrors how I'd actually guide a
   customer through an adoption journey."
